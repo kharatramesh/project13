@@ -1,0 +1,15 @@
+D:\project12\App\bin\Debug\net7.0\DotNet.Docker.exe
+D:\project12\App\bin\Debug\net7.0\DotNet.Docker.deps.json
+D:\project12\App\bin\Debug\net7.0\DotNet.Docker.runtimeconfig.json
+D:\project12\App\bin\Debug\net7.0\DotNet.Docker.dll
+D:\project12\App\bin\Debug\net7.0\DotNet.Docker.pdb
+D:\project12\App\obj\Debug\net7.0\DotNet.Docker.csproj.AssemblyReference.cache
+D:\project12\App\obj\Debug\net7.0\DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+D:\project12\App\obj\Debug\net7.0\DotNet.Docker.AssemblyInfoInputs.cache
+D:\project12\App\obj\Debug\net7.0\DotNet.Docker.AssemblyInfo.cs
+D:\project12\App\obj\Debug\net7.0\DotNet.Docker.csproj.CoreCompileInputs.cache
+D:\project12\App\obj\Debug\net7.0\DotNet.Docker.dll
+D:\project12\App\obj\Debug\net7.0\refint\DotNet.Docker.dll
+D:\project12\App\obj\Debug\net7.0\DotNet.Docker.pdb
+D:\project12\App\obj\Debug\net7.0\DotNet.Docker.genruntimeconfig.cache
+D:\project12\App\obj\Debug\net7.0\ref\DotNet.Docker.dll
